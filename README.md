@@ -1,0 +1,1 @@
+An online shop using Python and Django
